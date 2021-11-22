@@ -1,0 +1,139 @@
+*{
+   box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+   
+   
+}
+
+header{
+    text-align: center;
+    margin: 0px;
+   background-color: rgb(61, 61, 207);
+   padding: 10px;
+}
+
+
+
+h1,h2,h3{
+    padding: 10px;
+    margin: 5px;
+}
+
+.colors{
+    border: 1px solid grey ;
+    margin: 0px;
+    text-align: center;
+    background-color: bisque;
+
+}
+
+.fonts{
+    border: 1px solid grey;
+    margin:0px;
+    text-align: center;
+    background-color: bisque;
+}
+
+.text{
+    border: 1px solid grey;
+    margin:0px;
+    background-color: bisque;
+}
+
+.colors p{
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.fonts section{
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.text section{
+    padding: 20px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.blue{
+    background-color: #2d77ccf5;
+    padding: 10px;
+    margin: 10px;
+    color: aliceblue;
+    width: 180px;
+    text-align: center;
+}
+
+.pink{
+    background-color: rgb(199, 6, 199);
+    padding: 10px;
+    color: black;
+    width: 180px;
+    text-align: center;
+    
+}
+
+.green{
+    background-color: lightgreen;
+    width: 180px;
+    text-align: center;
+}
+
+.skin{
+    background-color: hsla(46, 63%, 80%, 0.822);
+    width: 180px;
+    text-align: center;
+}
+
+.source{
+    font-family: 'Source Code Pro', monospace;
+}
+
+.source p{
+    margin: 15px;
+}
+
+.source h3{
+    text-decoration: underline;
+}
+
+.Nunito{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.Nunito p{
+    margin: 15px;
+}
+
+.Nunito h3{
+    text-decoration: underline;
+}
+
+.poppins{
+    font-family: 'Poppins', sans-serif;
+}
+
+.poppins p{
+    margin: 15px;
+}
+
+.poppins h3{
+    text-decoration: underline;
+}
+
+.colors h2, .fonts h2{
+    background-color: lightslategray;
+    margin: 0px;
+    padding: 10px;
+}
+
+.head{
+    background-color: lightslategray;
+    margin: 0px;
+}
